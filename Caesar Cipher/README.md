@@ -6,7 +6,7 @@ This program implements the **Caesar Cipher**, a simple encryption technique tha
 ## Open in Google Colab
 Click the button below to run the program directly in **Google Colab**:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leorasdsouza/Caesar-Cipher/blob/main/CaesarCipher.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leorasdsouza/INS-Lab-Programs/blob/main/Caesar%20Cipher/CaesarCipher.ipynb)
 
 ## Features
 - Encrypts text using a user-specified shift key.
