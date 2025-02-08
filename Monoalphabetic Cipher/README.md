@@ -6,7 +6,7 @@ This program implements the **Monoalphabetic Cipher**, a substitution-based encr
 ## Open in Google Colab
 Click the button below to run the program directly in **Google Colab**:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leorasdsouza/Monoalphabetic-Cipher/blob/main/MonoalphabeticCipher.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leorasdsouza/INS-Lab-Programs/blob/main/Monoalphabetic%20Cipher/MonoalphabeticCipher.ipynb)
 
 ## Features
 - Encrypts text using a predefined substitution key.
