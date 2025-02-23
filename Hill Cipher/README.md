@@ -52,8 +52,10 @@ Click the **"Open in Colab"** button above.
 
 ### Sample Output
 
-![image](https://github.com/user-attachments/assets/acb9bb98-ad64-4781-8d66-1735cdd108e9)
-![image](https://github.com/user-attachments/assets/3c045e40-0f15-472e-a66d-eb73fd81b6d9)
+![image](https://github.com/user-attachments/assets/f13607c5-de12-49fd-8e92-e3fda4f6c7d4)
+
+![image](https://github.com/user-attachments/assets/24667f8b-5c2d-4e7a-a662-47f2aa02d99a)
+
 
 
 
