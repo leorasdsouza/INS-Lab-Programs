@@ -40,11 +40,11 @@ Click the **"Open in Colab"** button above.
 
 #### **Option 2: Run Locally**
 
-1. Download the script `HillCipher.py` from this repository.
+1. Download the script `Hill_Cipher.py` from this repository.
 2. Open a terminal or command prompt.
 3. Run the following command:
    ```bash
-   python HillCipher.py
+   python Hill_Cipher.py
    ```
 4. The program will output:
    - The **encrypted message**.
