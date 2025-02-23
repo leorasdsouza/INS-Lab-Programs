@@ -2,7 +2,7 @@
 
 ## Overview
 
-This program implements the **Hill Cipher**, a polygraphic substitution cipher that encrypts messages using linear algebra. It supports **encryption** functionalities using matrix operations.
+This program implements the **Hill Cipher**, a polygraphic substitution cipher that encrypts and decrypts messages using linear algebra. It supports both encryption and decryption functionalities using matrix operations.
 
 ## Open in Google Colab
 
@@ -12,16 +12,23 @@ Click the button below to run the program directly in **Google Colab**:
 
 ## Features
 
-- Encrypts plaintext using a **predefined key matrix**.
+- Encrypts and decrypts plaintext using a **predefined key matrix**.
 - Automatically **pads the plaintext** if necessary.
 - Works with **uppercase English letters**.
+- Implements **modular arithmetic** for encryption and decryption.
 
 ## How It Works
-
+### Encyption Process:
 1. The plaintext is **converted into numerical form** (A = 0, B = 1, ..., Z = 25).
 2. The text is split into blocks matching the size of the key matrix.
 3. The blocks are multiplied by the **key matrix** and taken modulo 26.
 4. The resulting numbers are converted back to letters to form the **ciphertext**.
+
+### Decrption Process:
+1. The ciphertext is converted into numerical form.
+2. The inverse of the key matrix (mod 26) is calculated.
+3. The ciphertext blocks are multiplied by the inverse key matrix and taken modulo 26.
+4. The resulting numbers are converted back to letters to retrieve the original plaintext.
 
 ## Usage Instructions
 
@@ -41,6 +48,7 @@ Click the **"Open in Colab"** button above.
    ```
 4. The program will output:
    - The **encrypted message**.
+   - The **decrypted message**.
 
 ### Sample Output
 
