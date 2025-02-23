@@ -1,4 +1,4 @@
-# Hill-Cipher
+# Vigenère-Cipher
 
 ## Overview
 
