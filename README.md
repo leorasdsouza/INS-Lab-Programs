@@ -7,12 +7,12 @@ Each folder contains an individual lab program along with its README for explana
 
 | Program | Description |
 |---------|------------|
-| [Caesar Cipher](./CaesarCipher/) | Implements the Caesar Cipher encryption and decryption. |
-| [Hill Cipher](./HillCipher/) | Implementation of Hill Cipher encryption and decryption. |
-| [Playfair Cipher](./PlayfairCipher/) | Encrypts and decrypts text using the Playfair Cipher technique. |
-| [Feistel Cipher](./FeistelCipher/) | Demonstrates the Feistel structure, a fundamental block cipher design used in cryptography. |
-| [Monoalphabetic Cipher](./MonoalphabeticCipherr/) | Implements a substitution cipher where each letter is mapped to another. |
-| [Vigenère Cipher](./VigenèreCipher/) | Implements the Vigenère Cipher, a polyalphabetic substitution encryption method. |
-| [DES Algorithm](./DESAlgorithm/) | Implements the Data Encryption Standard (DES) for secure communication. |
+| [Caesar Cipher](./Caesar%20Cipher/) | Implements the Caesar Cipher encryption and decryption. |
+| [Hill Cipher](./Hill%20Cipher/) | Implementation of Hill Cipher encryption and decryption. |
+| [Playfair Cipher](./Playfair%20Cipher/) | Encrypts and decrypts text using the Playfair Cipher technique. |
+| [Feistel Cipher](./Feistel%20Cipher/) | Demonstrates the Feistel structure, a fundamental block cipher design used in cryptography. |
+| [Monoalphabetic Cipher](./Monoalphabetic%20Cipherr/) | Implements a substitution cipher where each letter is mapped to another. |
+| [Vigenère Cipher](./Vigenère%20Cipher/) | Implements the Vigenère Cipher, a polyalphabetic substitution encryption method. |
+| [DES Algorithm](./DES/) | Implements the Data Encryption Standard (DES) for secure communication. |
 
 
