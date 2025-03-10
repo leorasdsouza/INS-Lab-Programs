@@ -28,10 +28,10 @@ Click the button below to run the program directly in **Google Colab**:
 ### Encryption Process:
 1. Convert the plaintext message into numerical form.
 2. Compute the ciphertext using the formula:
-  $ C = (M^e) mod n $
+  $` C = (M^e) mod n `$
 ### Decryption Process:
 1. Compute the original message using:
-   $ M = (C^d) mod n $
+   $` M = (C^d) mod n `$
 
 ## Usage Instructions
 
