@@ -6,7 +6,7 @@ This program implements the **Diffie-Hellman Key Exchange**, a cryptographic pro
 
 Click the button below to run the program directly in **Google Colab**:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leorasdsouza/INS-Lab-Programs/blob/main/Diffie_Hellman/Diffie_Hellman.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leorasdsouza/INS-Lab-Programs/blob/main/Diffie-Hellman/Diffie_Hellman.ipynb)
 
 ## **Features**  
 
